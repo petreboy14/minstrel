@@ -1,0 +1,27 @@
+{
+  "name": "minstrel",
+  "version": "0.1.0",
+  "description": "A storage agnostic event sourcer for use in microservice event based architectures.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/petreboy14/minstrel.git"
+  },
+  "keywords": [
+    "microservice",
+    "event",
+    "source",
+    "event",
+    "logger",
+    "replay"
+  ],
+  "author": "Peter Henning <petreboy14@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/petreboy14/minstrel/issues"
+  },
+  "homepage": "https://github.com/petreboy14/minstrel#readme"
+}
